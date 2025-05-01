@@ -1,3 +1,2 @@
-Cashapp: <a href="https://cash.app/$philliproachh" target="_blank">Link</a>
-
-<img align="left" alt="Phillip Roach's Github Stats" src="https://github-readme-stats.vercel.app/api?username=philliproach&show_icons=true&hide_border=true&theme=radical" />
+<a href="https://cash.app/$philliproachh" target="_blank">My Cashapp</a></br></br>
+<img align="left" width="150" height="150" src="https://cash.app/qr/$philliproachh?size=288&margin=0"/></br></br></br></br></br></br></br>
