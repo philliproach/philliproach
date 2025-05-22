@@ -1,2 +1,2 @@
-<a href="https://cash.app/$philliproachh" target="_blank">My Cashapp</a></br></br>
-<img align="left" width="150" height="150" href="" src="https://cash.app/qr/$philliproachh?size=288&margin=0"/>
+<img src="https://komarev.com/ghpvc/?username=philliproach&color=brightgreen" alt="watching_count"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=philliproach&theme=tokyonight" alt="mystreak"/>
