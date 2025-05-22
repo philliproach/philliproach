@@ -3,7 +3,9 @@
 👨‍💻 **About Me**
   
 I'm a **Web Developer & Designer** available for freelance projects and collaborations. I specialize in creating modern, responsive websites and user interfaces.
+
 🌟 **Available for hire** - Contact me through my Email linked below!
+
 
 🚀 **Featured Work**
 
