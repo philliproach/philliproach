@@ -21,7 +21,6 @@ Check out my [Template Website](https://philliproach.github.io/template/) to see
 
 ---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=philliproach&repo=template&theme=dark&hide_border=true&bg_color=2F3349" href="https://philliproach.github.io/template/" target="_blank" alt="Template Repo"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philliproach&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=2F3349" alt="Top Languages"/>
 
 ---
