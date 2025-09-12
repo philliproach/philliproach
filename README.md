@@ -1,20 +1,26 @@
 <div align="center">
   
-👨‍💻 **About Me**
+<br>
   
-I'm a **Web Developer & Designer** available for freelance projects and collaborations. I specialize in creating modern, responsive websites and user interfaces.
+👨‍💻 **About Me**
 
-🌟 **Available for hire** - Contact me through my Email linked below!
+**HTML | CSS | JavaScript | Python** 
+
+
+🌟 **Available for hire**
+
+I can program you or your business a well structured website, bot for Discord, or even an API.
+
+<br>
 
 
 🚀 **Featured Work**
 
-Check out my [Template Website](https://philliproach.github.io/template/) to see an example of a website that I have made.
+Check out my [Template Website](https://philliproach.github.io/template/) that I made using HTML, CSS, and JavaScript.
 
 ---
 
-🤝 **Let's Connect!**
-
+🤝 **Contact me!**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philliproach1111@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1208806707086499860)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/philliproach)
