@@ -21,6 +21,7 @@ Check out my [Template Website](https://philliproach.github.io/template/) that I
 ---
 
 🤝 **Contact me!**
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philliproach1111@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1208806707086499860)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/philliproach)
