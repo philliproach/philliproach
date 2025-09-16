@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/PhillipRoach/PhillipRoach/assets/126938927/413e15b5-c9e8-4660-8488-2edc937192ea" alt="Header Banner" width="100%">
-  
+<div align="center">  
   <h1>Hello, I'm Phillip 👋</h1>
 </div>
 
