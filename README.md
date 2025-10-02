@@ -21,7 +21,7 @@ I am a passionate software developer specializing in building **well-structured 
 ### 🛠️ Skills and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,discord,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python" />
   </a>
 </p>
 
